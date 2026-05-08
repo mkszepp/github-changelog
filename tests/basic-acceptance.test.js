@@ -21,18 +21,13 @@ describe.skipIf(!process.env.GITHUB_AUTH)("command line interface", () => {
       * \`github-changelog\`
         * [#33](https://github.com/release-plan/github-changelog/pull/33) support github enterpise url detection and env vars ([@patricklx](https://github.com/patricklx))
 
-      #### Committers: 1
-      - Patrick Pircher ([@patricklx](https://github.com/patricklx))
-
-
-      ## v1.1.0-github-changelog (2025-01-25)
-
       #### :house: Internal
       * \`github-changelog\`
         * [#29](https://github.com/release-plan/github-changelog/pull/29) Prepare Release ([@github-actions[bot]](https://github.com/apps/github-actions))
 
-      #### Committers: 1
-      - GitHub Actions [Bot] ([@github-actions](https://github.com/apps/github-actions))"
+      #### Committers: 2
+      - GitHub Actions [Bot] ([@github-actions](https://github.com/apps/github-actions))
+      - Patrick Pircher ([@patricklx](https://github.com/patricklx))"
     `);
   });
 
